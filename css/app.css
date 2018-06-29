@@ -1,0 +1,24 @@
+img{
+  height: 50%;
+  width:  40%;
+}
+a{
+  text-decoration: none;
+}
+.heading1{
+  color: green;
+  font-style: italic;
+}
+.heading2{
+  color: green;
+  font-style: italic;
+}
+body{
+  background-color: grey;
+}
+  body{
+    background-position: center;
+  }
+p{
+  color: maroon;
+}
